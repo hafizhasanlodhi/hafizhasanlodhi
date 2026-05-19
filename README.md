@@ -22,10 +22,10 @@
 <br>
 <div align="center">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,saas" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,prisma" />
 </div>
 </div>
 
