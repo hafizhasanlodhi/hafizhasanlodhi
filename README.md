@@ -31,7 +31,20 @@
   <img src="https://skillicons.dev/icons?i=nextjs,typescript,firebase,prisma,mongodb"/>
 </div>
 </div>
-
+<div align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vue,angular" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,firebase,mysql,postgres,python" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,figma,photoshop,illustrator" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,docker,npm" />
+</div>
+</div>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
