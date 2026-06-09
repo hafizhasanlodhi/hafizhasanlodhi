@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+HASAN;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+HASAN+Lodhi;" />
 </h1>
 
 <h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
@@ -25,7 +25,10 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,saas," />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,prisma" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,firebase,prisma"/>
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,typscript"/>
 </div>
 </div>
 
