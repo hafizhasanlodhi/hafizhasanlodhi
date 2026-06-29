@@ -119,15 +119,15 @@ Currently working as a Full Stack Developer while continuously learning and impr
 <p align="center">
 
 <a href="https://github.com/hafizhasanlodhi">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://github.com/hafizhasanlodhi"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://www.linkedin.com/in/hafizhasanlodhi/"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="mailto:hasanlodhi777@gmail.com"/>
 </a>
 
 </p>
