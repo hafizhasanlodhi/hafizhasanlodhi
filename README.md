@@ -1,4 +1,3 @@
-```md
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi+👋,+I'm+Hasan+Lodhi;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </h1>
@@ -150,4 +149,3 @@ Currently working as a Full Stack Developer while continuously learning and impr
 <p align="center">
 Building ideas into real-world web applications.
 </p>
-```
