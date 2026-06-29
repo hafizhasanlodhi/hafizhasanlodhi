@@ -89,8 +89,11 @@ Currently working as a Full Stack Developer while continuously learning and impr
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=hafizhasanlodhi&theme=algolia&no-frame=true&margin-w=10"/>
+</p> -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hafizhasanlodhi&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
 ---
