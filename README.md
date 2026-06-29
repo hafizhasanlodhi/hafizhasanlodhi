@@ -1,44 +1,153 @@
+```md
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋;+I'm+HASAN+Lodhi;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=700&height=70&duration=3500&lines=Hi+👋,+I'm+Hasan+Lodhi;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </h1>
 
-<h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
+<h3 align="center">
+Full Stack Web Developer from Pakistan 🇵🇰
+</h3>
 
-<div>
+<p align="center">
+Passionate about building scalable, user-friendly and high-performance web applications using modern technologies.
+Currently working as a Full Stack Developer while continuously learning and improving my skills.
+</p>
 
-- 🌱 I’m currently learning **Modern Web and App Development**
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hafizhasanlodhi&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/hafizhasanlodhi?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/hafizhasanlodhi?affiliations=OWNER&style=social" />
+</p>
 
-- 👯 I’m looking to collaborate on **Development and Technology**
+---
 
-- 💬  Ask me about **html, css, javascript... or anything [here](https://github.com/hafizhasanlodhi/)**
+# 👨‍💻 About Me
 
-- 📫 How to reach me **hafizhasanlodhi**
+- 💼 Currently working as a **Full Stack Developer**
+- 🚀 Passionate about building production-ready web applications
+- 🌱 Currently exploring advanced **Next.js**, **TypeScript**, **Prisma**, and scalable backend architecture
+- 🤝 Open to collaborating on Full Stack projects
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express, MongoDB, PostgreSQL**
+- ⚡ Strong problem-solving mindset and fast learner
+- ⌨️ Touch typing with high speed & accuracy
 
-- 💻 Experienced in touch typing – fast & accurate without looking.
+---
 
-</div>
+# 🚀 Tech Stack
 
-<h2 align="center">⚒️ Languages and Tools ⚒️</h2>
-<br>
-<div align="center">
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,nodejs"/>
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,firebase,prisma,mongodb"/>
-</div>
-  <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redux,express,postman,npm"/>
-</div>
-</div>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hafizhasanlodhi&show_icons=true&theme=react&border_radius=10" alt="streak-stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=hafizhasanlodhi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hafizhasanlodhi&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,redux" />
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,prisma" />
+</p>
+
+### Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+✔ Building scalable Full Stack Applications
+
+✔ Writing clean & maintainable code
+
+✔ Improving system architecture
+
+✔ Learning cloud deployment & performance optimization
+
+✔ Continuous learning & professional growth
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hafizhasanlodhi&theme=react&border_radius=10"/>
+
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=hafizhasanlodhi&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10"/>
+</p>
+
+<p align="center">
+<img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hafizhasanlodhi&layout=compact&theme=react&border_radius=10"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hafizhasanlodhi&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hafizhasanlodhi&theme=react-dark"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech |
+|----------|------|
+| E-Commerce Platform | Next.js, Node.js, MongoDB |
+| Learning Management System | React, Firebase |
+| Admin Dashboard | Next.js, PostgreSQL |
+| Portfolio Website | React |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/hafizhasanlodhi">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+> Clean Code • Scalable Architecture • Continuous Learning • Problem Solving
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
+
+<p align="center">
+Building ideas into real-world web applications.
+</p>
+```
