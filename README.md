@@ -114,20 +114,20 @@ Currently working as a Full Stack Developer while continuously learning and impr
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
 
-<a href="https://github.com/hafizhasanlodhi">
-<img src="https://github.com/hafizhasanlodhi"/>
+<a href="https://github.com/hafizhasanlodhi" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://www.linkedin.com/in/hafizhasanlodhi/"/>
+<a href="https://www.linkedin.com/in/hafizhasanlodhi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="mailto:hasanlodhi777@gmail.com"/>
+<a href="mailto:hasanlodhi777@gmail.com?subject=Let's%20Connect&body=Hi%20Hasan,%20I%20visited%20your%20GitHub%20profile.">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
 </a>
 
 </p>
