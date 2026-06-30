@@ -107,15 +107,7 @@ Currently working as a <b>Web Development Intern</b> while continuously improvin
 </div>
 
 ---
-# 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 # 🚀 My Development Workflow
 
  Idea
@@ -137,3 +129,12 @@ Currently working as a <b>Web Development Intern</b> while continuously improvin
    │
    ▼
 🚀 Deployment
+
+---
+🐍 GitHub Streak Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafizhasanlodhi/hafizhasanlodhi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafizhasanlodhi/hafizhasanlodhi/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/hafizhasanlodhi/hafizhasanlodhi/output/github-contribution-grid-snake.svg">
+</picture>
