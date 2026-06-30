@@ -107,7 +107,15 @@ Currently working as a <b>Web Development Intern</b> while continuously improvin
 </div>
 
 ---
+# 🐍 Contribution Snake
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
 # 🚀 My Development Workflow
 
  Idea
